@@ -1,14 +1,14 @@
 // security pass: xblbqnhbanjhpfdi
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyDiAMDEF74g0QZeQxmZywI70QnZN6YhwDo",
-  authDomain: "js-test-ae710.firebaseapp.com",
-  databaseURL: "https://js-test-ae710-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "js-test-ae710",
-  storageBucket: "js-test-ae710.appspot.com",
-  messagingSenderId: "691903707435",
-  appId: "1:691903707435:web:d52af30be9a9e5ea99ed6e",
-  measurementId: "G-2W7PDT4726"
+  apiKey: "your data",
+  authDomain: "your data",
+  databaseURL: "your data",
+  projectId: "your data",
+  storageBucket: "your data",
+  messagingSenderId: "your data",
+  appId: "your data",
+  measurementId: "your data"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
